@@ -2,33 +2,47 @@
 
   <h1>Hi 👋, I'm Youssef</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+Lover;Self-Taught+Programmer;Learning+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Full-Stack+Web+Apps;React+%7C+Node+%7C+MongoDB;Self-Taught+Programmer+🚀" />
 
 </div>
 
 ---
 
-## 🧠 About Me  
-- 👦 I'm a 13-year-old self-taught **Front-End Developer**  
-- 💻 I build modern, responsive websites  
-- 🚀 Currently learning **React & Tailwind**  
-- 🎯 My dream is to become a full-time freelancer
+## 🧠 About Me
+- 💻 **MERN Stack Developer**  
+- 🚀 I build full-stack web applications from scratch  
+- 🧩 Frontend with **React & Tailwind**  
+- ⚙️ Backend with **Node.js & Express**  
+- 🗄️ Database using **MongoDB & Mongoose**  
+- 🎯 Goal: Full-time **Freelance Developer**
 
 ---
 
-## 🖼️ A Peek Into My Work Vibes
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 Projects (Important)
+- 🔹 **Full-Stack Auth System** (MERN)  
+- 🔹 **Dashboard / Admin Panel**  
+- 🔹 **Portfolio Website**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,git,github,vscode" />
-</p>
+> *(Add links when ready)*
 
 ---
 
@@ -46,5 +60,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Hope+you+like+my+work+😊;Follow+me+for+more+updates+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Let's+build+something+great+🚀;Open+to+Freelance+Work" />
 </p>
