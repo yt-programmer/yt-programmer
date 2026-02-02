@@ -18,26 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🚀 Projects (Important)
+## 🚀 Projects
 - 🔹 **Full-Stack Auth System** (MERN)  
 - 🔹 **Dashboard / Admin Panel**  
 - 🔹 **Portfolio Website**
