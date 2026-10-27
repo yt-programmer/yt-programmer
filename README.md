@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yt-programmer&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile views" />
 </p>
 
 </div>
@@ -66,11 +66,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yt-programmer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yt-programmer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/youssef-tarek-mohammed/">
+  <a href="https://www.linkedin.com/in/youssef-tarek-yt/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
